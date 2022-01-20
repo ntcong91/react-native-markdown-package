@@ -1,6 +1,6 @@
 {
   "name": "react-native-markdown-package",
-  "version": "1.5.4",
+  "version": "1.8.1",
   "description": "Package for implementing markdown syntax in React Native",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "lodash": "^4.17.15",
     "prop-types": "^15.6.0",
     "react-native-lightbox": "^0.7.0",
-    "simple-markdown": "^0.6.0"
+    "simple-markdown": "^0.7.1"
   },
   "repository": {
     "type": "git",
